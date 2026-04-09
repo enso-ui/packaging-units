@@ -1,7 +1,7 @@
 <template>
     <div class="columns is-centered">
         <div class="column is-half-desktop">
-            <enso-form class="box form-box has-background-light raises-on-hover"/>
+            <enso-form class="box form-box"/>
         </div>
     </div>
 </template>

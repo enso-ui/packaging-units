@@ -1,6 +1,6 @@
 <template>
     <enso-table
-class="box is-paddingless raises-on-hover"
+        class="box p-0"
         id="packaging_units"/>
 </template>
 
