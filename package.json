@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/packaging-units",
-  "version": "4.2.2",
+  "version": "4.2.3",
   "description": "Basic packaging units package",
   "main": "src/bulma/pages/administration/packagingUnits/Index.vue",
   "repository": {
